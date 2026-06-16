@@ -1,7 +1,7 @@
 # Git Commands Cheat Sheet
 
 ## Setup & Config
-- git --version → check git version
+i- git --version → check git version
 - git config --global user.name "Your Name" → set username
 - git config --global user.email "email" → set email
 
@@ -32,3 +32,5 @@
 - Added login feature commands
 
 - Improved login documentation
+
+- Main branch update before signup merge
