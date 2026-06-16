@@ -24,3 +24,6 @@
 - git log --oneline → compact history
 - git add . → stage all changes
 
+## Branch Practice
+
+- This change is done in feature-1 branch
