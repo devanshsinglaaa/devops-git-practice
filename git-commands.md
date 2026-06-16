@@ -32,3 +32,8 @@
 - Added login feature commands
 
 - Improved login documentation
+
+## Feature Signup
+- Added signup feature
+
+
