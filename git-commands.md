@@ -34,3 +34,6 @@ i- git --version → check git version
 - Improved login documentation
 
 - Main branch update before signup merge
+
+## Feature Signup
+- Added signup feature
