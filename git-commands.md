@@ -17,3 +17,10 @@
 - git add . → stage all files
 - git commit -m "message" → commit changes
 - git log --oneline → short commit history
+
+## Useful Commands
+
+- git diff → see changes before commit
+- git log --oneline → compact history
+- git add . → stage all changes
+
