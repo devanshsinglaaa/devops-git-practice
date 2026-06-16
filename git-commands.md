@@ -11,3 +11,9 @@
 
 ## Viewing Changes
 - git log → show commit history
+
+## More Commands
+
+- git add . → stage all files
+- git commit -m "message" → commit changes
+- git log --oneline → short commit history
